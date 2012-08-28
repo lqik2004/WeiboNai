@@ -8,7 +8,7 @@
 支持iPhone4/4S,iPod Touch4,iPad 2/new iPad  
 需要5.0以上系统
 
-IPA[下载](https://github.com/lqik2004/WeiboNai/blob/master/WeiBoNai.ipa)（请看下面的使用说明）
+IPA[下载](https://raw.github.com/lqik2004/WeiboNai/master/WeiBoNai.ipa)（请看下面的使用说明）
 ###程序介绍  
 具体的可以转向这个页面，我专门做了一个小[网页](http://www.smore.com/en42)  
 在这里简单说一下，如果你看了上面的页面我说的还挺冠冕堂皇的，在Github上说点实在的。  
